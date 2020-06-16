@@ -21,4 +21,5 @@ This is a demo project about dependency injection
 └── test
     └── service.test.js
 ```
-
+### Technical Support or Questions
+If you have questions or need help integrating the product please "thanh29695@gmail.com" instead of opening an issue.
