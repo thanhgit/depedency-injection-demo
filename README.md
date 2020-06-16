@@ -6,7 +6,7 @@ This is a demo project about dependency injection
 ### Overview Architecture
 ![](./dependency-injection.png)
 
-### Structure files
+### File Structure
 ```bash
 .
 ├── authController
