@@ -3,6 +3,12 @@
 ```
 This is a demo project about dependency injection
 ```
+
+### Quickly
+```text
+$ npm start
+```
+
 ### Overview Architecture
 ![](./dependency-injection.png)
 
